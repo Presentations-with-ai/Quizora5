@@ -1,0 +1,13 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "corpus": [
+    {
+      "section": "micro",
+      "label": "Макроэкономика 2",
+      "file": "micro_tests.json"
+    }
+  ],
+  "requestTimeoutMs": 120000,
+  "maxOutputTokens": 3072,
+  "apiKeysFile": "ai_keys.json"
+}
